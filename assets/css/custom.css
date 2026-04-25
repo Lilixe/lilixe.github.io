@@ -59,6 +59,11 @@ hr {
     border-color: rgba(255, 255, 255, 0.35);
 }
 
+#header .content .inner ul.actions {
+    justify-content: center;
+    margin-left: 0;
+}
+
 /* Icons look more premium */
 ul.icons li a {
     box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.35);
